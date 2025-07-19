@@ -29,4 +29,4 @@ Berikut adalah tutorial yang tersedia:
 
 # Lisensi
 
-Secara umum, materi tutorial ini berlisensi <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-sa"></i>, artinya materi dapat digunakan kembali asalkan **pengguna tidak merubah konten aslinya**.
+Secara umum, materi tutorial ini berlisensi <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-sa"></i>, artinya materi dapat digunakan kembali asalkan **pengguna tidak mengubah konten aslinya**.
