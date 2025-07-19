@@ -2,15 +2,78 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tutorial",
+    "title": "Mengapa Saya Membuat Tutorial",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Saya percaya bahwa ilmu pengetahuan harus transparan dan dapat diakses terbuka. Selain saya berusaha agar memastikan seluruh proses riset saya terbuka, saya juga aktif membuat sumber belajar terbuka (open educational resources) agar dapat dimanfaatkan oleh banyak orang.\nBeberapa video tutorial juga dapat diakses di akun  saya."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#metodologi-penelitian",
+    "href": "index.html#metodologi-penelitian",
+    "title": "Mengapa Saya Membuat Tutorial",
+    "section": "Metodologi Penelitian",
+    "text": "Metodologi Penelitian\n\nBagaimana caranya melaporkan hasil negatif? (p &gt; 0.05) \nMateri kuliah Metodologi Penelitian Kuantitatif"
+  },
+  {
+    "objectID": "index.html#statistik-dan-psikometri",
+    "href": "index.html#statistik-dan-psikometri",
+    "title": "Mengapa Saya Membuat Tutorial",
+    "section": "Statistik dan Psikometri",
+    "text": "Statistik dan Psikometri\n\nDari Alfa ke Omega: Bagaimana caranya melakukan uji reliabilitas dengan McDonald’s Omega \nMultigroup Structural Equation Modeling (MG-SEM) \nLinear Mixed Effect/Multilevel Modeling \nConfirmatory Factor Analysis \nGraded Response Model\n\nBaca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. \nRepositori"
+  },
+  {
+    "objectID": "bimbingan.html",
+    "href": "bimbingan.html",
+    "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "+++ title = “Yang harus diketahui sebelum…” subtitle = “”\ndate = 2019-05-30T14:00:00 lastmod = 2019-05-30T05:50:00 draft = false"
+  },
+  {
+    "objectID": "bimbingan.html#umum-berlaku-buat-semuanya",
+    "href": "bimbingan.html#umum-berlaku-buat-semuanya",
+    "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
+    "section": "Umum, berlaku buat semuanya",
+    "text": "Umum, berlaku buat semuanya\n\nSaya lebih prefer dihubungi via email daripada via Whatsapp. Kalau menghubungi via Whatsapp, saya mungkin akan memberikan respon/balasan chat lebih lambat daripada dihubungi via email.\nDiluar jam kerja, saya akan merespon email/chat lebih lambat daripada ketika dihubungi ketika jam kerja. Tapi saya akan berusaha membalas semua email/chat selambatnya 2x24 jam. Kalau ga ada balasan dari saya lebih dari 2x24 jam, silahkan hubungi saya lagi, karena kemungkinan chat/email kalian kelewatan belum saya baca, atau udah saya baca tapi lupa belum saya balas.\nSebagai gambaran, jadwal saya dapat dilihat di Doodle saya dan kalian bisa request janji temu melalui laman tersebut. Tetapi baiknya konfirmasi ulang soal janji temunya melalui email/Whatsapp.\nKetika menghubungi saya, baik melalui email/chat, sebaiknya cantumkan identitas kalian dengan jelas. Saya sih agak casual soal konten email/chatnya (jadi tidak perlu cantumkan NIM, nama dan mata kuliah aja sudah cukup). Ga harus pakai bahasa yang baku dan kaku, casual aja saya ga masalah.\nUntuk waktu, saya ga masalah dihubungi kapan aja (24/7). Kadang-kadang saya juga hanya punya waktu tengah malam atau pagi-pagi buta untuk balesin chat mahasiswa. Saya ga terganggu, karena ponsel selalu saya set silent kalo sedang di rumah.\nUntuk mahasiswa yang ingin membuat janji temu yang berkaitan dengan tugas/ujian/project dari mata kuliah yang saya ampu, silahkan kirim email/chat Whatsapp dan deskripsikan secara detail kebutuhanmu apa, nanti saya akan putuskan kalian perlu ketemu saya langsung, atau persoalan dapat langsung diselesaikan cukup melalui email/chat aja.\nUntuk mahasiswa yang membuat janji temu yang berkaitan dengan urusan kemahasiswaan (lomba, ormawa, dll.) atau urusan lain yang tidak berkaitan langsung dengan proses perkuliahan, silahkan kirim email/chat dan deskripsikan kebutuhanmu secara detail. Nanti saya yang akan putuskan kalian perlu ketemu saya langsung, atau persoalan dapat langsung diselesaikan cukup melalui email/chat aja.\nUntuk mahasiswa yang membuat janji temu yang berkaitan dengan tugas/ujian/project dari mata kuliah yang TIDAK saya ampu, mohon maaf saya ga menyediakan waktu untuk ini. Silahkan hubungi dosen yang mengampu mata kuliah tersebut."
+  },
+  {
+    "objectID": "bimbingan.html#khusus-buat-bimbingan-skripsi-saya",
+    "href": "bimbingan.html#khusus-buat-bimbingan-skripsi-saya",
+    "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
+    "section": "Khusus buat bimbingan skripsi saya",
+    "text": "Khusus buat bimbingan skripsi saya\n\nMahasiswa bimbingan skripsi saya umumnya bakal lebih saya prioritaskan untuk janji temu daripada mahasiswa yang lain.\nUntuk feedback, seengganya saya butuh ~2 minggu untuk ngembaliin berkas kalian dengan catatan-catatan dari saya. Bisa lebih kalo saya lagi overload (dan ini akan saya informasikan di awal). Jadi sambil nunggu masukan dari saya, kalian bisa nyambi ngerjain bab berikutnya. Jangan nunggu feedback dari saya balik dulu, baru ngerjain bab selanjutnya.\nSetelah bab 1 jadi, saya akan minta kalian langsung siapkan instrumen dan akan menjadwalkan satu pertemuan intensif tentang desain penelitian dan instrumennya.\nUntuk pengesahan naskah sebelum dikumpulkan ke akademik, saya butuh waktu minimal 1 minggu untuk ngecek seluruh naskah dan ngasih tanda tangan. Kalau naskah dikumpulkan terlalu dekat dengan tenggat waktu yang ditetapkan oleh panitia skripsi (kurang dari 1 minggu sebelum pengumpulan), naskah ga akan saya tanda tangani.\nSaya ga akan ngecek progres kalian satu-satu secara personal. Kalian yang harus proaktif. Kalo kalian idle ga pernah inisiatif ngontak saya, saya juga ga akan nyariin kalian. Skripsi adalah tanggung jawab dan project pribadi kalian, sedangkan tanggung jawab saya hanya mensupervisi aja.\nBerkaitan dengan publikasi hasil skripsi, secara umum saya TIDAK bersedia nama saya dicantumkan sebagai co-author/penulis kedua dalam naskah publikasi kalian, kecuali ada hal-hal lain yang disepakati bersama selama proses pembimbingan.\nSaya akan memberikan peluang mahasiswa untuk terlibat dalam penelitian saya dengan benefit mahasiswa bisa memanfaatkan data dari project saya untuk penyusunan skripsinya. Slot untuk penelitian payung ini tidak banyak dan tidak untuk semua mahasiswa. Silahkan tanya saya langsung soal ketersediaan peluang ini."
+  },
+  {
+    "objectID": "bimbingan.html#mahasiswa-yang-bukan-bimbingan-skripsi-saya",
+    "href": "bimbingan.html#mahasiswa-yang-bukan-bimbingan-skripsi-saya",
+    "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
+    "section": "Mahasiswa yang bukan bimbingan skripsi saya",
+    "text": "Mahasiswa yang bukan bimbingan skripsi saya\nSecara umum, semua mahasiswa (yang bukan bimbingan skripsi saya) boleh berkonsultasi dengan saya, asal sepengetahuan dosen pembimbing skripsi. Jadi, silahkan bilang dan minta ijin sama dosbing kalian dulu. Lebih bagus lagi, dosbing kalian yang kontak dan bilang saya langsung (kalau kalian butuh bantuan saya). Ini syarat wajib yang ga bisa ditawar-tawar.\n\n“Bu, saya ingin konsultasi tentang SPSS…”\nMohon maaf, saya ga memberikan janji temu untuk SPSS. Saya udah ga pakai SPSS sejak 2017 dan tidak akan pakai lagi sampai kapanpun. Sekarang sudah ada banyak software alternatif SPSS yang open source dan gratis dengan interface dan fungsi yang persis sama dengan SPSS, yaitu jamovi dan JASP. Buat mahasiswa yang suka tantangan dan programming, bisa juga pakai R. Ketiga software tersebut udah banyak banget tutorialnya, silahkan cari sendiri, bisa tanya ama Google. Oleh karena itu, baiknya segera uninstall SPSS bajakan tersebut dan ganti dengan perangkat lunak yang open-source (dan legal). :smile:\n\n\n“Bu, saya mau tanya apakah analisis saya udah bener apa belum…”\nMohon maaf, saya ga menyediakan waktu untuk ngecek apakah analisismu udah bener apa belum. Ini adalah tanggung jawabmu pribadi dan dosen pembimbing skripsimu.\n\n\n“Bu, saya mau diskusi gimana caranya melakukan analisis data […]”\nSekali lagi, ini adalah sesuatu yang harus kalian selesaikan sendiri dan termasuk sebagai tanggung jawab dosen pembimbing skripsimu. Sebagian besar textbook statistik sudah kasih langkah-langkah analisis, cara interpretasi dan pelaporannya secara detail. Sebagian besar masalah yang kalian hadapi bisa selesai dengan cara (sungguh-sungguh) membaca. Salah satu yang sangat saya rekomendasikan adalah bukunya Danielle Navarro & David Foxcroft “Learning Statistics with jamovi”. Datalab juga menyediakan video tutorial gratis untuk analisis data menggunakan jamovi.\nKalian juga bisa akses salindia materi statistik yang saya susun sebagai bahan ajar MK Penelitian dan Analisis Data Kuantitatif di repositori saya dan video kuliahnya di akun YouTube saya.\n\n\n“Bu, saya mau diskusi soal penelitian saya…”\nTolong spesifik dalam mendeskripsikan persoalan yang mau dikonsultasikan. Lebih baik melalui email, sehingga saya bisa dapat gambaran yang jelas mengenai persoalan yang kalian hadapi. Jangan buru-buru bikin janji temu, karena sebagian besar mahasiswa yang minta janji temu persoalannya udah bisa diselesaikan dengan diskusi melalui email. Kalo ternyata persoalannya sangat kompleks, deskripsikan persoalanmu secara detail nanti baru saya putusin kalian perlu/tidak ketemu saya langsung."
+  },
+  {
+    "objectID": "bimbingan.html#buat-yang-minta-rater",
+    "href": "bimbingan.html#buat-yang-minta-rater",
+    "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
+    "section": "Buat yang minta rater",
+    "text": "Buat yang minta rater\n\nMohon maaf, saya ga menyediakan waktu untuk kasih masukan tentang penulisan aitem atau menyesuaikan terjemahan dan terjemahan-balik alat ukurmu. Kalau mahasiswa minta saya jadi rater untuk kedua hal ini, pasti akan saya tolak.\nSatu-satunya yang dapat saya lakukan kalau diminta jadi rater alat ukur adalah untuk pengujian validitas isi pakai pendekatan Content Validity Index (CVI). Silahkan baca dua referensi ini untuk tahu prosedur penghitungan CVI; Wynd, et al. (2003) dan Rubio, et al. (2003). Silahkan buka dengan Sci-Hub kalau perpustakaan ga menyediakan akses pada kedua artikel tersebut.\nSaya butuh waktu setidaknya 2 minggu untuk menyelesaikan rater skala/instrumen. Bisa lebih kalo saya lagi overload, tapi akan saya informasikan sebelumnya kalo memang lagi overload.\nNormalnya, proses rater skala dilakukan sebelum mengambil data. Kalo ada mahasiswa yang minta rater sambil ambil data atau ketika pengambilan data sudah selesai baru minta rater (kebacut lho ini..), maka mahasiswa tsb. akan saya rekomendasikan ke ketua pengujinya agar tidak diluluskan ujian skripsi dan disuruh ambil data ulang. Mohon jangan sampai ada mahasiswa yang melakukan hal ini. Kejadian semacam ini sangat menyebalkan dan bikin saya sangat kecewa, karena ini sama aja buang-buang waktu saya.\n\nCatatan penting: Saya membuat contoh form sekaligus simulasi penghitungan CVI yang bisa diunduh disini."
+  },
+  {
+    "objectID": "bimbingan.html#kok-beda-ya-bu-cara-ngitung-content-validity-di-referensi-referensi-diatas-dengan-kebanyakan-yang-ditulis-di-skripsi-skripsi",
+    "href": "bimbingan.html#kok-beda-ya-bu-cara-ngitung-content-validity-di-referensi-referensi-diatas-dengan-kebanyakan-yang-ditulis-di-skripsi-skripsi",
+    "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
+    "section": "“Kok beda ya bu cara ngitung content validity di referensi-referensi diatas dengan kebanyakan yang ditulis di skripsi-skripsi?”",
+    "text": "“Kok beda ya bu cara ngitung content validity di referensi-referensi diatas dengan kebanyakan yang ditulis di skripsi-skripsi?”\nTentu aja bedalah. Yang kebanyakan dilakukan mahasiswa-mahasiswa di skripsi-skripsi sebelumnya adalah meminta masukan rater atas penulisan/wording aitem, BUKAN estimasi validitas isi. :smile:\nSetelah membaca ground rules diatas, mahasiswa yang membuat janji temu dianggap setuju dan sepakat dengan hal-hal diatas ya."
+  },
+  {
+    "objectID": "hasilnegatif.html",
+    "href": "hasilnegatif.html",
+    "title": "Melaporkan Hasil Negatif (p > 0.05)",
+    "section": "",
+    "text": "Berikut adalah tutorial bagaimana cara menginterpretasi p-value dan melaporkan hasil uji hipotesis yang menunjukkan p-value lebih dari α (0.05).\nSalindia\n\n\nVideo Tutorial"
+  },
+  {
+    "objectID": "omega.html",
+    "href": "omega.html",
+    "title": "Dari Alfa ke Omega",
+    "section": "",
+    "text": "Tidak ada teknik estimasi reliabilitas yang populernya melebihi Cronbach’s α (CA). Di nyaris seluruh laporan penelitian yang kita baca, penulis hampir selalu melaporkan CA sebagai teknik yang mereka gunakan untuk mengestimasi reliabilitas skala. Menariknya, penggunaan CA tidak hanya terbatas di riset-riset Psikologi saja, melainkan juga digunakan di banyak penelitian di disiplin ilmu lainnya, yang menggunakan asesmen/skala psikologis (baik kognitif, maupun non-kognitif).\nYang belum banyak diketahui, sudah banyak sekali literatur yang menyebutkan bahwa CA juga bersyarat, tetapi masih banyak peneliti yang tetap menggunakan CA tanpa membaca terms & conditions-nya terlebih dahulu.\nSecara singkat, CA adalah teknik mengestimasi reliabilitas dengan pendekatan konsistensi internal, yang berarti pengujian skala hanya perlu dilakukan sekali saja pada satu kelompok sampel. Berbeda dengan pendekatan tes paralel dan test-retest yang memerlukan setidaknya dua (bahkan lebih) kali pengujian skala dan kelompok sampel yang berbeda, CA dapat dilakukan cukup dengan melakukan pengujian skala sekali saja. Tetapi, CA hanya dapat dilakukan ketika empat kondisi (yang sangat rigid) di bawah ini terpenuhi, yaitu:\n\nKonstruk harus unidimensional, sehingga kalau yang terjadi sebaliknya, CA tidak dapat digunakan.\nKonstruk harus memenuhi asumsi tau equivalence, yaitu kondisi dimana setiap aitem memiliki factor loading yang identik. Artinya, setiap aitem harus sama kontribusinya (covariance) dalam menjelaskan konstruk. NOTE: ini adalah kondisi yang utopis, tidak mungkin terjadi :smile:.\nData harus berdistribusi normal dan continous. Ingat, kalau peneliti menggunakan skala Likert, maka datanya sudah pasti bentuknya ordinal (atau mentok ya quasi-interval kalau response type-nya seperti semantic differential), sehingga otomatis tidak bisa memenuhi syarat ini.\nSetiap aitem harus independen, sehingga error nya tidak boleh berkorelasi.\n\nNah, mengingat keempat asumsi ini tidak terpenuhi, maka estimasi CA yang dilakukan dalam kondisi yang tidak memenuhi syarat akan cenderung lebih rendah atau tidak konsisten dari yang sebenarnya. Alternatif yang tersedia adalah menggunakan hierachical ω (Omega), ω total, dan Greatest Lower Bound (GLB). Diantara ketiganya, hierarchical ω dianggap yang terbaik.\nNah, untuk kali ini, saya akan mendemonstrasikan cara menghitung koefisien ω dengan menggunakan JASP dan R (menggunakan package psych dan MBESS). Kedua software tersebut open-source, sehingga siapapun dapat mengaksesnya tanpa harus membayar biaya langganan. SPSS tidak menyediakan fitur untuk mengestimasi ω dan semoga hal ini menambah motivasi untuk tidak menggunakan SPSS versi bajakan :smile:.\nNB: Untuk pertanyaan, komentar atau yang lainnya, silahkan klik disini."
   }
 ]

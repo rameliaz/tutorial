@@ -1,11 +1,32 @@
 ---
-title: "tutorial"
+title: ""
 ---
 
-This is a Quarto website.
+# Mengapa Saya Membuat Tutorial
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Saya percaya bahwa ilmu pengetahuan harus transparan dan dapat diakses terbuka. Selain saya berusaha agar memastikan seluruh proses riset saya terbuka, saya juga aktif membuat sumber belajar terbuka (*open educational resources*) agar dapat dimanfaatkan oleh banyak orang.
 
-```{r}
-1 + 1
-```
+Beberapa video tutorial juga dapat diakses di akun <a href="https://www.youtube.com/your-channel"><i class="fab fa-youtube"></i></a> saya.
+
+# Menu Tutorial
+
+Berikut adalah tutorial yang tersedia:
+
+## Metodologi Penelitian
+
+1. Bagaimana caranya melaporkan hasil negatif? (p > 0.05) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tutorial/hasilnegatif.html)
+2. Materi kuliah Metodologi Penelitian Kuantitatif [<i class="fas fa-external-link-alt"></i>](https://osf.io/tq6pz/wiki/home/)
+
+## Statistik dan Psikometri
+1. Dari Alfa ke Omega: Bagaimana caranya melakukan uji reliabilitas dengan McDonald's Omega [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tutorial/omega.html)
+2. Multigroup Structural Equation Modeling (MG-SEM) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/mg-sem-workshop/)
+3. Linear Mixed Effect/Multilevel Modeling [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/mlm-lme-workshop/)
+4. Confirmatory Factor Analysis [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/lvm-cfa/)
+5. Graded Response Model
+    - Baca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1002/ijop.13265)
+    - Repositori <i class="fab fa-github"></i> [<i class="fas fa-external-link-alt"></i>](https://github.com/rameliaz/grm-tutorial-paper)
+
+
+# Lisensi
+
+Secara umum, materi tutorial ini berlisensi <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-sa"></i>, artinya materi dapat digunakan kembali asalkan **pengguna tidak merubah konten aslinya**.

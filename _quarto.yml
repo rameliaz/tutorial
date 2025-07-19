@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "tutorial"
+  title: "Tutorial✍"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "🏠"
 
 format:
   html:
