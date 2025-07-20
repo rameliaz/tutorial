@@ -6,7 +6,7 @@ title: ""
 
 Saya percaya bahwa ilmu pengetahuan harus transparan dan dapat diakses terbuka. Selain saya berusaha agar memastikan seluruh proses riset saya terbuka, saya juga aktif membuat sumber belajar terbuka (*open educational resources*) agar dapat dimanfaatkan oleh banyak orang.
 
-Beberapa video tutorial juga dapat diakses di akun <a href="https://www.youtube.com/your-channel"><i class="fab fa-youtube"></i></a> saya.
+Beberapa video tutorial juga dapat diakses di akun <a href="https://www.youtube.com/@rameliaz"><i class="fab fa-youtube"></i></a> saya.
 
 # Menu Tutorial
 
