@@ -107,8 +107,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="99">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#ingin-bertanya" id="toc-ingin-bertanya" class="nav-link active" data-scroll-target="#ingin-bertanya">Ingin Bertanya?</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -133,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">July 19, 2025</p>
+      <p class="date-modified">July 20, 2025</p>
     </div>
   </div>
     
@@ -149,18 +155,22 @@ ul.task-list li input[type="checkbox"] {
 <p>Secara singkat, CA adalah teknik mengestimasi reliabilitas dengan pendekatan konsistensi internal, yang berarti pengujian skala hanya perlu dilakukan sekali saja pada satu kelompok sampel. Berbeda dengan pendekatan tes paralel dan <em>test-retest</em> yang memerlukan setidaknya dua (bahkan lebih) kali pengujian skala dan kelompok sampel yang berbeda, CA dapat dilakukan cukup dengan melakukan pengujian skala sekali saja. Tetapi, CA hanya dapat dilakukan ketika <a href="https://doi.org/10.1037/met0000144">empat kondisi</a> (yang sangat rigid) di bawah ini terpenuhi, yaitu:</p>
 <ul>
 <li>Konstruk harus unidimensional, sehingga kalau yang terjadi sebaliknya, CA tidak dapat digunakan.</li>
-<li>Konstruk harus memenuhi asumsi <em>tau equivalence</em>, yaitu kondisi dimana setiap aitem memiliki <em>factor loading</em> yang identik. Artinya, setiap aitem <strong>harus sama kontribusinya</strong> (<em>covariance</em>) dalam menjelaskan konstruk. NOTE: ini adalah kondisi yang utopis, tidak mungkin terjadi :smile:.</li>
+<li>Konstruk harus memenuhi asumsi <em>tau equivalence</em>, yaitu kondisi dimana setiap aitem memiliki <em>factor loading</em> yang identik. Artinya, setiap aitem <strong>harus sama kontribusinya</strong> (<em>covariance</em>) dalam menjelaskan konstruk. Perlu diingat, hal ini adalah kondisi yang <strong>tidak mungkin terjadi</strong> di dunia nyata.</li>
 <li>Data harus berdistribusi normal dan <em>continuous</em>. Ingat, kalau peneliti menggunakan skala Likert, maka datanya sudah pasti bentuknya ordinal (atau mentok ya <em>quasi-interval</em> kalau <em>response type</em>-nya seperti <em>semantic differential</em>), sehingga otomatis tidak bisa memenuhi syarat ini.</li>
-<li>Setiap aitem harus independen, sehingga <em>error</em> nya tidak boleh berkorelasi.</li>
+<li>Setiap item harus independen, sehingga <em>error</em> nya tidak boleh berkorelasi.</li>
 </ul>
 <p>Nah, mengingat keempat asumsi ini tidak terpenuhi, maka estimasi CA yang dilakukan dalam kondisi yang tidak memenuhi syarat akan <a href="http://doi.wiley.com/10.1111/bjop.12046">cenderung lebih rendah atau tidak konsisten</a> dari yang sebenarnya. Alternatif yang tersedia adalah menggunakan <a href="https://pdfs.semanticscholar.org/f2e2/00613f941874d7ae3a1e880dad3d82503cc7.pdf"><em>hierachical ω</em></a> (Omega), <a href="https://link.springer.com/article/10.1007/BF02289858"><em>ω total</em></a>, dan <a href="https://link.springer.com/article/10.1007/BF02289858"><em>Greatest Lower Bound</em></a> (GLB). Diantara ketiganya, <em>hierarchical ω</em> dianggap <a href="https://doi.org/10.1007/s11336-008-9102-z">yang terbaik</a>.</p>
-<p>Nah, untuk kali ini, saya akan mendemonstrasikan cara menghitung koefisien ω dengan menggunakan <a href="https://jasp-stats.org/download/">JASP</a> dan <a href="https://cran.r-project.org/bin/windows/base/">R</a> (menggunakan <em>package</em> <code>psych</code> dan <code>MBESS</code>). Kedua <em>software</em> tersebut <em>open-source</em>, sehingga siapapun dapat mengaksesnya tanpa harus membayar biaya langganan. SPSS tidak menyediakan fitur untuk mengestimasi ω dan semoga hal ini menambah motivasi untuk tidak menggunakan SPSS versi bajakan :smile:.</p>
+<p>Nah, untuk kali ini, saya akan mendemonstrasikan cara menghitung koefisien ω dengan menggunakan <a href="https://jasp-stats.org/download/">JASP</a> dan <a href="https://cran.r-project.org/bin/windows/base/">R</a> (menggunakan <em>package</em> <code>psych</code> dan <code>MBESS</code>). Kedua <em>software</em> tersebut <em>open-source</em>, sehingga siapapun dapat mengaksesnya tanpa harus membayar biaya langganan. SPSS tidak menyediakan fitur untuk mengestimasi ω dan semoga hal ini menambah motivasi untuk tidak menggunakan SPSS versi bajakan.</p>
 <div class="{center}">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoVSkJ8u7JQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 </iframe>
 </div>
+<section id="ingin-bertanya" class="level1">
+<h1>Ingin Bertanya?</h1>
+<p>Silakan hubungi saya via <a href="https://discord.gg/W3sPDthd"><i class="fab fa-discord"></i></a> dengan mengklik <em>icon</em> tersebut.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

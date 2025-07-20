@@ -3,3 +3,7 @@ title: "judul"
 author: Rizqy Amelia Zein
 date-modified: last-modified
 ---
+
+# Ingin Bertanya?
+
+Silakan hubungi saya via <a href="https://discord.gg/W3sPDthd"><i class="fab fa-discord"></i></a> dengan mengklik *icon* tersebut.

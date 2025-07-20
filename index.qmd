@@ -26,6 +26,9 @@ Berikut adalah tutorial yang tersedia:
     - Baca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1002/ijop.13265)
     - Repositori <i class="fab fa-github"></i> [<i class="fas fa-external-link-alt"></i>](https://github.com/rameliaz/grm-tutorial-paper)
 
+# Ingin Bertanya?
+
+Silakan hubungi saya via <a href="https://discord.gg/W3sPDthd"><i class="fab fa-discord"></i></a> dengan mengklik *icon* tersebut.
 
 # Lisensi
 
