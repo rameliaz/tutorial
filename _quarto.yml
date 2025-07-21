@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Tutorial✍"
+  title: "Tutorial"
   navbar:
     left:
       - href: https://rameliaz.github.io/
         text: "🏠"
-      - href: https://rameliaz.github.io/
-        text: "Back to Tutorial"  
+      - href: index.qmd
+        text: "✍"  
 
 format:
   html:
