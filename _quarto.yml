@@ -3,13 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "Tutorial"
+  title: ""
   navbar:
     left:
       - href: https://rameliaz.github.io/
-        text: "🏠"
+        icon: house
+        text: Website Home
       - href: index.qmd
-        text: "✍"  
+        icon: house
+        text: Tutorial
+
+  
+    right:
+      - icon: envelope
+        href: "mailto:ameliazein@gmail.com"
+      - icon: github
+        href: https://github.com/rameliaz
+      - icon: discord
+        href: https://discord.gg/W3sPDthd
+  
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+      left: "&#169; 2025 Rizqy Amelia Zein"
+      center: |
+        <a class="link-dark me-1" href="https://github.com/rameliaz" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
+        <a class="link-dark me-1" href=mailto:ameliazein@gmail.com title="Email" target="_blank" rel="noopener">{{< iconify material-symbols:mail >}}</a>
+        <a class="link-dark me-1" href="https://bsky.app/profile/ameliazein.bsky.social" title="Bluesky" target="_blank" rel="noopener">{{< iconify fa6-brands bluesky >}}</a>
+        <a class="link-dark me-1" href="https://discord.gg/W3sPDthd" title="Bluesky" target="_blank" rel="noopener">{{< iconify fa6-brands discord >}}</a>
+        
+      right: |
+        <a class="link-dark me-1" href="https://github.com/rameliaz/tutorial">{{< iconify fa6-brands github >}} Source</a>
 
 format:
   html:
