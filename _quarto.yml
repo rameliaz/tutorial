@@ -26,7 +26,7 @@ website:
     location: navbar
     type: overlay
   page-footer:
-      left: "&#169; 2025 Rizqy Amelia Zein"
+      left: "&#169; 2026 Rizqy Amelia Zein"
       center: |
         <a class="link-dark me-1" href="https://github.com/rameliaz" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
         <a class="link-dark me-1" href=mailto:ameliazein@gmail.com title="Email" target="_blank" rel="noopener">{{< iconify material-symbols:mail >}}</a>
