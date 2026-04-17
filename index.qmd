@@ -27,7 +27,7 @@ Berikut adalah tutorial yang tersedia:
     - Repositori <i class="fab fa-github"></i> [<i class="fas fa-external-link-alt"></i>](https://github.com/rameliaz/grm-tutorial-paper)
 
 ## Publikasi Ilmiah
-Saya membawakan _workshop_ publikasi ilmiah untuk mahasiswa doktoral [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/penerbitan/)
+Saya membawakan _workshop_ publikasi ilmiah untuk mahasiswa doktoral [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/publikasi/)
 
 # Ingin Bertanya?
 
