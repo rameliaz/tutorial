@@ -21,8 +21,9 @@ Berikut adalah tutorial yang tersedia:
 1. Dari Alfa ke Omega: Bagaimana caranya melakukan uji reliabilitas dengan McDonald's Omega [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tutorial/omega.html)
 2. Multigroup Structural Equation Modeling (MG-SEM) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/mg-sem-workshop/)
 3. Linear Mixed Effect/Multilevel Modeling [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/mlm-lme-workshop/)
-4. Statistik lanjut [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/statistik/)
-5. Graded Response Model
+4. Statistik dasar (untuk mahasiswa S1 dan sebagian materi untuk S2) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/statistik-dasar/)
+5. Statistik lanjut (untuk mahasiswa S2 dan S3) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/statistik/)
+6. Graded Response Model
     - Baca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1002/ijop.13265)
     - Repositori <i class="fab fa-github"></i> [<i class="fas fa-external-link-alt"></i>](https://github.com/rameliaz/grm-tutorial-paper)
 
