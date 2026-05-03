@@ -5,3 +5,4 @@
 
 /.quarto/
 posts/
+**/*.quarto_ipynb

@@ -30,6 +30,9 @@ Berikut adalah tutorial yang tersedia:
 ## Publikasi Ilmiah
 Saya membawakan _workshop_ publikasi ilmiah untuk mahasiswa doktoral [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/publikasi/)
 
+## *Works in progress* ⚒️
+Metasains dalam psikologi [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/metasains/)
+
 # Ingin Bertanya?
 
 Silakan hubungi saya via <a href="https://discord.com/users/807046335613632555"><i class="fab fa-discord"></i></a> dengan mengklik *icon* tersebut.

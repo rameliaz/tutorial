@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.14">
+<meta name="generator" content="quarto-1.10.3">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>index</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-8f1af79587c2686b78fe4e1fbadd71ab.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e44360b8a8db1e130c7792fece1c8032.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-22c6e3231a5e8c2570b1fc07b7302227.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -135,6 +137,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#metodologi-penelitian" id="toc-metodologi-penelitian" class="nav-link" data-scroll-target="#metodologi-penelitian">Metodologi Penelitian</a></li>
   <li><a href="#statistik-dan-psikometri" id="toc-statistik-dan-psikometri" class="nav-link" data-scroll-target="#statistik-dan-psikometri">Statistik dan Psikometri</a></li>
   <li><a href="#publikasi-ilmiah" id="toc-publikasi-ilmiah" class="nav-link" data-scroll-target="#publikasi-ilmiah">Publikasi Ilmiah</a></li>
+  <li><a href="#works-in-progress" id="toc-works-in-progress" class="nav-link" data-scroll-target="#works-in-progress"><em>Works in progress</em> ⚒️</a></li>
   </ul></li>
   <li><a href="#ingin-bertanya" id="toc-ingin-bertanya" class="nav-link" data-scroll-target="#ingin-bertanya">Ingin Bertanya?</a></li>
   <li><a href="#lisensi" id="toc-lisensi" class="nav-link" data-scroll-target="#lisensi">Lisensi</a></li>
@@ -180,6 +183,10 @@ ul.task-list li input[type="checkbox"] {
 <section id="publikasi-ilmiah" class="level2">
 <h2 class="anchored" data-anchor-id="publikasi-ilmiah">Publikasi Ilmiah</h2>
 <p>Saya membawakan <em>workshop</em> publikasi ilmiah untuk mahasiswa doktoral <a href="https://rameliaz.github.io/publikasi/"><i class="fas fa-external-link-alt"></i></a></p>
+</section>
+<section id="works-in-progress" class="level2">
+<h2 class="anchored" data-anchor-id="works-in-progress"><em>Works in progress</em> ⚒️</h2>
+<p>Metasains dalam psikologi <a href="https://rameliaz.github.io/metasains/"><i class="fas fa-external-link-alt"></i></a></p>
 </section>
 </section>
 <section id="ingin-bertanya" class="level1">
@@ -245,13 +252,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
