@@ -24,14 +24,14 @@ Berikut adalah tutorial yang tersedia:
 4. Statistik dasar (untuk mahasiswa S1 dan sebagian materi untuk S2) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/statistik-dasar/)
 5. Statistik lanjut (untuk mahasiswa S2 dan S3) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/statistik-lanjut/)
 6. Graded Response Model
-    - Baca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1002/ijop.13265)
+    - Baca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. *International Journal of Psychology*, 60(1), e13265. [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1002/ijop.13265)
     - Repositori <i class="fab fa-github"></i> [<i class="fas fa-external-link-alt"></i>](https://github.com/rameliaz/grm-tutorial-paper)
 
 ## Publikasi Ilmiah
 Saya membawakan _workshop_ publikasi ilmiah untuk mahasiswa doktoral [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/publikasi/)
 
-## *Works in progress* ⚒️
-Metasains dalam psikologi [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/metasains/)
+## *Work in progress* ⚒️
+Metasains dalam psikologi: studi ilmiah tentang sains dan praktek saintifik dalam psikologi [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/metasains/)
 
 # Ingin Bertanya?
 
