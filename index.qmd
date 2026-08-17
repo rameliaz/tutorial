@@ -15,7 +15,7 @@ Berikut adalah tutorial yang tersedia:
 ## Metodologi Penelitian
 
 1. Bagaimana caranya melaporkan hasil negatif? (p > 0.05) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tutorial/hasilnegatif.html)
-2. Materi kuliah Metodologi Penelitian Kuantitatif [<i class="fas fa-external-link-alt"></i>](https://osf.io/tq6pz/wiki/home/)
+2. Memastikan agar riset dapat direka ulang (*reproducible*) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/reproducibility/)
 
 ## Statistik dan Psikometri
 1. Dari Alfa ke Omega: Bagaimana caranya melakukan uji reliabilitas dengan McDonald's Omega [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tutorial/omega.html)
@@ -30,10 +30,11 @@ Berikut adalah tutorial yang tersedia:
 ## *Open Educational Resources* (OER)
 Berikut ini adalah materi di kuliah-kuliah yang saya ampu. Kontennya akan selalu diperbarui.
 
-1. Penyusunan Skala Psikologi (S1 Psikologi, PSA306)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/psp/)
-2. Penyusunan Tes Kognitif (S1 Psikologi, PSA305)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/ptk/)
-3. Teknologi dalam Pembelajaran (S2 Psikologi Peminatan Pendidikan, FPS25801105)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tp/)
-4. Literasi Data dan Penulisan Ilmiah (S2 Psikologi, FPS25801005)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/literasi-data/)
+1. Penyusunan Skala Psikologi (S1 Psikologi, PSA306) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/psp/)
+2. Penyusunan Tes Kognitif (S1 Psikologi, PSA305) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/ptk/)
+3. Teknologi dalam Pembelajaran (S2 Psikologi Peminatan Pendidikan, FPS25801105) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tp/)
+4. Literasi Data dan Penulisan Ilmiah (S2 Psikologi, FPS25801005) [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/literasi-data/)
+5. Materi kuliah Metodologi Penelitian Kuantitatif (S1 Psikologi, Kurikulum 2021) [<i class="fas fa-external-link-alt"></i>](https://osf.io/tq6pz/wiki/home/)
 
 ## Publikasi Ilmiah
 Saya membawakan _workshop_ publikasi ilmiah untuk mahasiswa doktoral [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/publikasi/)
