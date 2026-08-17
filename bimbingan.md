@@ -90,6 +90,6 @@ Tolong **spesifik dalam mendeskripsikan persoalan** yang mau dikonsultasikan. Le
 
 ## "Kok beda ya bu cara ngitung *content validity* di referensi-referensi diatas dengan kebanyakan yang ditulis di skripsi-skripsi?" 
 
-Tentu aja bedalah. Yang kebanyakan dilakukan mahasiswa-mahasiswa di skripsi-skripsi sebelumnya adalah meminta masukan rater atas **penulisan/wording aitem**, BUKAN **estimasi validitas isi**. :smile:
+Tentu aja bedalah. Yang kebanyakan dilakukan mahasiswa-mahasiswa di skripsi-skripsi sebelumnya adalah meminta masukan rater atas **penulisan/wording item**, BUKAN **estimasi validitas isi**. :smile:
 
 Setelah membaca *ground rules* diatas, mahasiswa yang membuat janji temu dianggap setuju dan sepakat dengan hal-hal diatas ya.

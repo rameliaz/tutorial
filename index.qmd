@@ -30,10 +30,10 @@ Berikut adalah tutorial yang tersedia:
 ## *Open Educational Resources* (OER)
 Berikut ini adalah materi di kuliah-kuliah yang saya ampu. Kontennya akan selalu diperbarui.
 
-1. [Penyusunan Skala Psikologi](https://rameliaz.github.io/psp/) (S1 Psikologi, PSA306)
-2. [Penyusunan Tes Kognitif](https://rameliaz.github.io/ptk/) (S1 Psikologi, PSA305)
-3. [Teknologi dalam Pembelajaran](https://rameliaz.github.io/tp/) (S2 Magister Psikologi Peminatan Pendidikan, FPS25801105)
-4. [Literasi Data dan Penulisan Ilmiah](https://rameliaz.github.io/literasi-data/) (S2 Magister Psikologi, FPS25801005)
+1. Penyusunan Skala Psikologi (S1 Psikologi, PSA306)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/psp/)
+2. Penyusunan Tes Kognitif (S1 Psikologi, PSA305)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/ptk/)
+3. Teknologi dalam Pembelajaran (S2 Psikologi Peminatan Pendidikan, FPS25801105)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/tp/)
+4. Literasi Data dan Penulisan Ilmiah (S2 Psikologi, FPS25801005)[<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/literasi-data/)
 
 ## Publikasi Ilmiah
 Saya membawakan _workshop_ publikasi ilmiah untuk mahasiswa doktoral [<i class="fas fa-external-link-alt"></i>](https://rameliaz.github.io/publikasi/)
