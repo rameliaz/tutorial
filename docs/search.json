@@ -7,6 +7,13 @@
     "text": "Ingin Bertanya?\nSilakan hubungi saya via  dengan mengklik icon tersebut."
   },
   {
+    "objectID": "hasilnegatif.html",
+    "href": "hasilnegatif.html",
+    "title": "Melaporkan Hasil Negatif (p > 0.05)",
+    "section": "",
+    "text": "Berikut adalah tutorial bagaimana cara menginterpretasi p-value dan melaporkan hasil uji hipotesis yang menunjukkan p-value lebih dari α (0.05).\nSalindia\n\n\n\n\nVideo Tutorial\n\n\n\n\n\nIngin Bertanya?\nSilakan hubungi saya via  dengan mengklik icon tersebut."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mengapa Saya Membuat Tutorial",
@@ -26,6 +33,13 @@
     "title": "Mengapa Saya Membuat Tutorial",
     "section": "Statistik dan Psikometri",
     "text": "Statistik dan Psikometri\n\nDari Alfa ke Omega: Bagaimana caranya melakukan uji reliabilitas dengan McDonald’s Omega \nMultigroup Structural Equation Modeling (MG-SEM) \nLinear Mixed Effect/Multilevel Modeling \nStatistik dasar (untuk mahasiswa S1 dan sebagian materi untuk S2) \nStatistik lanjut (untuk mahasiswa S2 dan S3) \nGraded Response Model\n\nBaca papernya disini: Zein, R. A. & Akhtar, H. (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. \nRepositori"
+  },
+  {
+    "objectID": "index.html#open-educational-resources-oer",
+    "href": "index.html#open-educational-resources-oer",
+    "title": "Mengapa Saya Membuat Tutorial",
+    "section": "Open Educational Resources (OER)",
+    "text": "Open Educational Resources (OER)\nBerikut ini adalah materi di kuliah-kuliah yang saya ampu. Kontennya akan selalu diperbarui.\n\nPenyusunan Skala Psikologi (S1 Psikologi, PSA306)\nPenyusunan Tes Kognitif (S1 Psikologi, PSA305)\nTeknologi dalam Pembelajaran (S2 Magister Psikologi Peminatan Pendidikan, FPS25801105)\nLiterasi Data dan Penulisan Ilmiah (S2 Magister Psikologi, FPS25801005)"
   },
   {
     "objectID": "index.html#publikasi-ilmiah",
@@ -82,13 +96,6 @@
     "title": "Authors. Comma separated list, e.g. [\"Bob Smith\", \"David Jones\"].",
     "section": "“Kok beda ya bu cara ngitung content validity di referensi-referensi diatas dengan kebanyakan yang ditulis di skripsi-skripsi?”",
     "text": "“Kok beda ya bu cara ngitung content validity di referensi-referensi diatas dengan kebanyakan yang ditulis di skripsi-skripsi?”\nTentu aja bedalah. Yang kebanyakan dilakukan mahasiswa-mahasiswa di skripsi-skripsi sebelumnya adalah meminta masukan rater atas penulisan/wording aitem, BUKAN estimasi validitas isi. :smile:\nSetelah membaca ground rules diatas, mahasiswa yang membuat janji temu dianggap setuju dan sepakat dengan hal-hal diatas ya."
-  },
-  {
-    "objectID": "hasilnegatif.html",
-    "href": "hasilnegatif.html",
-    "title": "Melaporkan Hasil Negatif (p > 0.05)",
-    "section": "",
-    "text": "Berikut adalah tutorial bagaimana cara menginterpretasi p-value dan melaporkan hasil uji hipotesis yang menunjukkan p-value lebih dari α (0.05).\nSalindia\n\n\n\n\nVideo Tutorial\n\n\n\n\n\nIngin Bertanya?\nSilakan hubungi saya via  dengan mengklik icon tersebut."
   },
   {
     "objectID": "omega.html",
